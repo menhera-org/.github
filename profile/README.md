@@ -2,7 +2,7 @@
 
 Menhera.org is the brand name for Human-life Information Platforms Institute (Japanese: 一般社団法人生活情報基盤研究機構).
 
-We promote sciences, arts, and cultural lives, truely diverse and integrated society, and everyone's privacy,
+We promote sciences, arts, and cultural lives, truely diverse and integrated societies, and everyone's privacy,
 through research and development of information science, medicine, humanities and digital media or information platforms.
 
 We use free and open source licenses for software projects.
