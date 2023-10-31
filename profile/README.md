@@ -7,7 +7,7 @@ through research and development of information science, medicine, humanities an
 
 We use free and open source licenses for software projects.
 
-### 日本語
+### 日本語 (Japanese)
 
 Menhera.org は一般社団法人生活情報基盤研究機構のブランド名です。
 
