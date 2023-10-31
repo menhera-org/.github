@@ -16,6 +16,12 @@ Menhera.org は一般社団法人生活情報基盤研究機構のブランド�
 
 私たちは自由でオープンソースなライセンスをソフトウェアプロジェクトに使用します。
 
+## People on GitHub
+
+- Yuka MORI ([@metastable-void](https://github.com/metastable-void)): co-founder, representative director
+- Satsuki AKIBA ([@anosatsuk124](https://github.com/anosatsuk124)): co-founder, executive director
+- more...
+
 <!--
 
 **Here are some ideas to get you started:**
