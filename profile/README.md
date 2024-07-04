@@ -1,4 +1,5 @@
 > _Toward a future which empowers everyone_
+> 
 > — Slogan for Human-life Information Platforms Institute
 
 ## Hi there 👋
